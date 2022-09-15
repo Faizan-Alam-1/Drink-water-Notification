@@ -1,6 +1,6 @@
 
 # Drink water Notification
-There is always a tendency for people to forget to drink water. In this project, I used Python and the Tkinter inbuilt moulde to make a drink water notification  desktop app. 
+There is always a tendency for people to forget to drink water. In this project, I used Python and the Tkinter inbuilt moulde to make a drink water notification  desktop app. In the input box, please enter the time in seconds. Remove existing text from the input box first.
 
 ## Screenshots
 ![pnn](https://user-images.githubusercontent.com/51821426/190385585-9fbfe4a0-e817-4d99-8995-c0bee169e11b.jpg)
